@@ -1,0 +1,7 @@
+{
+  "name": "InkSpire AI - Tattoo Studio Assistant",
+  "description": "A professional tool for tattoo artists to generate designs and automatic stencils using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
